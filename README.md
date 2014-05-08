@@ -31,6 +31,8 @@ collect coding styles
 
 - github-css-styleguide (Chinese, [English](https://github.com/styleguide/css))
 
+- csswizardry-css-styleguide ([Chinese](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md), [English](https://github.com/csswizardry/CSS-Guidelines))
+
 ## javascript
 
 - google-javascript-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml))
