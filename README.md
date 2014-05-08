@@ -25,7 +25,35 @@ collect coding styles
 
 - google-java-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html))
 
+## HTML/CSS
+
+- google-html-css-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml))
+
+## javascript
+
+- google-javascript-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml))
+
+- google-angularjs-styleguide (Chinese, [English](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html))
+
+## Lisp
+
+- google-Lisp-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml))
+
+## shell
+
+- google-shell-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/shell.xml))
+
+## vimscript
+
+- google-vimscript-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/vimscriptguide.xml))
+
 ## json
 
 - google-json-styleguide ([Chinese](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md), [English](http://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml))
+
+## xml
+
+- google-xml-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/xmlstyle.html))
+
+
 
