@@ -29,6 +29,8 @@ collect coding styles
 
 - google-html-css-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml))
 
+- github-css-styleguide (Chinese, [English](https://github.com/styleguide/css))
+
 ## javascript
 
 - google-javascript-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml))
@@ -54,6 +56,3 @@ collect coding styles
 ## xml
 
 - google-xml-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/xmlstyle.html))
-
-
-
