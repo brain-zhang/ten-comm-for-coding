@@ -11,7 +11,7 @@ collect coding styles
 
 ## Ruby
 
-- github-Ruby-styleguide ([Chinese](), [English](https://github.com/styleguide/ruby))
+- github-Ruby-styleguide (Chinese, [English](https://github.com/styleguide/ruby))
 
 - bbatsov-Ruby-styleguide ([Chinese](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md), [English](https://github.com/bbatsov/ruby-style-guide))
 
@@ -23,7 +23,7 @@ collect coding styles
 
 ## java
 
-- google-java-styleguide ([Chinese](), [English](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html))
+- google-java-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html))
 
 ## json
 
