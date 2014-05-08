@@ -1,5 +1,6 @@
 ten-comm-for-coding
 ===================
+![ten-comm](img/tencomm.jpg)
 
 collect coding styles
 
