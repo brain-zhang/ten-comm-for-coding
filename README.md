@@ -25,7 +25,7 @@ collect coding styles
 
 ## java
 
-- google-java-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html))
+- google-java-styleguide ([Chinese](https://github.com/zh-google-styleguide/zh-google-styleguide/tree/master/google-html-css-styleguide), [English](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html))
 
 ## HTML/CSS
 
