@@ -41,6 +41,8 @@ collect coding styles
 
 - google-angularjs-styleguide (Chinese, [English](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html))
 
+- Airbnb JavaScript Styleguide (Chinese, [English](https://github.com/airbnb/javascript))
+
 ## Lisp
 
 - google-Lisp-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml))
