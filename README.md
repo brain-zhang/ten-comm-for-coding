@@ -35,6 +35,8 @@ collect coding styles
 
 - csswizardry-css-styleguide ([Chinese](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md), [English](https://github.com/csswizardry/CSS-Guidelines))
 
+- netease-nec-styleguide (Chinese(http://nec.netease.com/standard), [English])
+
 ## javascript
 
 - google-javascript-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml))
