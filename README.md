@@ -35,7 +35,7 @@ collect coding styles
 
 - csswizardry-css-styleguide ([Chinese](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md), [English](https://github.com/csswizardry/CSS-Guidelines))
 
-- netease-nec-styleguide (Chinese(http://nec.netease.com/standard), [English])
+- netease-nec-styleguide ([Chinese](http://nec.netease.com/standard), [English])
 
 ## javascript
 - full-stack-developer-styleguide([chinese](https://github.com/memorybox-javascript/spec))
