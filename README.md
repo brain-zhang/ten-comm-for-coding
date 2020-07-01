@@ -38,7 +38,7 @@ collect coding styles
 - netease-nec-styleguide ([Chinese](http://nec.netease.com/standard), [English])
 
 ## javascript
-- full-stack-developer-styleguide([chinese](https://github.com/memorybox-javascript/spec))
+- full-stack-developer-styleguide([Chinese](https://github.com/memorybox-javascript/spec))
 
 - google-javascript-styleguide (Chinese, [English](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml))
 
